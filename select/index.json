@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Bad Apple!! feat.nomico",
+  "base_artist": "nomico",
+  "createdAt": "2026-03-24T08:40:56.350163Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Apple!! feat.nomico",
+      "artist": "nomico",
+      "has_synced": false,
+      "path": "select/01_Bad_Apple!!_feat.nomico_nomico.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Apple!! feat. nomico",
+      "artist": "nomico",
+      "has_synced": true,
+      "path": "select/02_Bad_Apple!!_feat._nomico_nomico.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad Apple!! feat. nomico",
+      "artist": "nomico",
+      "has_synced": true,
+      "path": "select/03_Bad_Apple!!_feat._nomico_nomico.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad Apple!! feat. nomico",
+      "artist": "Alstroemeria Records",
+      "has_synced": false,
+      "path": "select/04_Bad_Apple!!_feat._nomico_Alstroemeria_Records.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad Apple!! feat. nomico",
+      "artist": "Masayoshi Minoshima",
+      "has_synced": false,
+      "path": "select/05_Bad_Apple!!_feat._nomico_Masayoshi_Minoshima.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bad Apple!! (feat. nomico)",
+      "artist": "Alstroemeria Records",
+      "has_synced": false,
+      "path": "select/06_Bad_Apple!!_(feat._nomico)_Alstroemeria_Records.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bad Apple!! feat. nomico",
+      "artist": "nomico",
+      "has_synced": true,
+      "path": "select/07_Bad_Apple!!_feat._nomico_nomico.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bad apple!! feat. nomico (Instrumental)",
+      "artist": "Alstroemeria Records",
+      "has_synced": false,
+      "path": "select/08_Bad_apple!!_feat._nomico_(Instrumental)_Alstroemeria_Records.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad Apple!! Feat. Nomico -2021 Remaster-",
+      "artist": "nomico",
+      "has_synced": true,
+      "path": "select/09_Bad_Apple!!_Feat._Nomico_-2021_Remaster-_nomico.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "bad apple feat nomico",
+      "artist": "alstroemeria records nomico",
+      "has_synced": true,
+      "path": "select/10_bad_apple_feat_nomico_alstroemeria_records_nomico.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bad Apple feat.nomico (Live)",
+      "artist": "nomico",
+      "has_synced": true,
+      "path": "select/11_Bad_Apple_feat.nomico_(Live)_nomico.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bad apple!! feat. nomico (Instrumental)",
+      "artist": "Masayoshi Minoshima",
+      "has_synced": true,
+      "path": "select/12_Bad_apple!!_feat._nomico_(Instrumental)_Masayoshi_Minoshima.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad Apple!! feat.nomico (2014 REFIX) (from FLASHLIGHT)",
+      "artist": "nomico",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_Apple!!_feat.nomico_(2014_REFIX)_(from_FLASHLIGHT)_nomico.txt"
+    }
+  ]
+}
